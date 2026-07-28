@@ -1,0 +1,27 @@
+{
+  "item": {
+    "id": "",
+    "restype": "watchface",
+    "name": "表盘",
+    "description": "蛋仔派对",
+    "preview": [
+      "media/背景颜色选择 (3).png"
+    ],
+    "icon": "",
+    "cover": "media/背景颜色选择 (3).png",
+    "author": [
+      {
+        "name": "li231129",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/随便做的-V2-202607281710.bin"
+    }
+  },
+  "ext": {}
+}
